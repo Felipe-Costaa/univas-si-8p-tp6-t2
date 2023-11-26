@@ -4,8 +4,8 @@
 ## Clonando o repositório
 
 ```bash
-git clone https://github.com/folows1/t2-node.git
-cd t2-node
+git clone https://github.com/Felipe-Costaa/univas-si-8p-tp6-t2
+cd univas-si-8p-tp6-t2
 ```
 
 ## Rodando a API separadamente
